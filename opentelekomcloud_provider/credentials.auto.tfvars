@@ -1,0 +1,6 @@
+user_name   = "test"
+password    = "password"
+tenant_name = "xxxxxxx"
+region      = "xxxxxxx"
+domain_name = "OTC-xx-xx-0000000000xxxxxxxxxxxxxxxx"
+auth_url    = "https://iam.eu-de.otc.t-systems.com:443/v3"
