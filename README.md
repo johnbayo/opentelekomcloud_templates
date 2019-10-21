@@ -1,1 +1,1 @@
-Alle funktionierende und getesteten templates
+functioning and working templates
