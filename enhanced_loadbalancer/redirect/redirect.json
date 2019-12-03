@@ -1,0 +1,8 @@
+{
+    "l7policy": {
+        "action": "REDIRECT_TO_LISTENER", 
+        "listener_id": "listen_id", 
+        "redirect_listener_id": "redirect_id", 
+        "name": "redirect-deployment"
+    }
+}

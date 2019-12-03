@@ -1,0 +1,14 @@
+- hosts: localhost
+  connection: local
+  tasks:
+  - add_host:
+      name: "{{ working_host }}"
+      groups: working_group
+    changed_when: false
+
+- hosts: working_group
+  become: true
+  roles:
+    - role: letsencrypt
+      certbot_domains: '{{ dom }}'
+      certbot_email: 'example-3@example.com'

@@ -1,0 +1,7 @@
+{
+    "name": "cert-deployment",
+    "description": "certificate",
+    "certificate": "cert_value",
+    "private_key": "key_value",
+    "domain"     : "customdomainname"
+}
