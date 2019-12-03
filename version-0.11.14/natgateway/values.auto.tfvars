@@ -2,7 +2,7 @@
 # NAT GW & rules
 ##############################################
 natgw_count             = "1"
-natgw_name              = ["natgw-cis-sso"]
+natgw_name              = ["natgw-test"]
 natgw_subnet_index      = ["0"]
 ## rules
 natgw_rule_count        = "1"

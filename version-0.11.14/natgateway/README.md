@@ -15,5 +15,3 @@ natgw_rule_gw_index is the index of the nat gw to attach this rule to
 <br/><br/>
 natgw_size is the size as stated in variables file
 <br/><br/>
-**TODO**
-modify template for multiple VPCs

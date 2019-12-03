@@ -1,4 +1,4 @@
-riable "natgw_name" {type = "list"}
+variable "natgw_name" {type = "list"}
 variable "natgw_count" {}
 variable "natgw_rule_count" {}
 variable "natgw_subnet_index" {type = "list"}
